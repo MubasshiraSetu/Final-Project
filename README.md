@@ -1,10 +1,10 @@
-# 🎉 Festivo — Event & Food Management App
+# Festivo — Event & Food Management App
 
 A Flutter app for managing events and food menus using Supabase.
 
 ---
 
-## ✨ Features
+## Features
 - Email/password authentication (login, register, forgot password)
 - Animated splash screen with auth gate
 - Dashboard with event & food statistics
@@ -17,7 +17,7 @@ A Flutter app for managing events and food menus using Supabase.
 
 ---
 
-## 🚀 Setup
+## Setup
 
 ### 1. Create Supabase Project
 - Go to supabase
